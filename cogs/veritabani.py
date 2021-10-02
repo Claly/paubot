@@ -8,7 +8,7 @@ from discord.ext import commands
 from prettytable import PrettyTable
 
 random_isim = ["Talha","Hakan","Mete","Deniz","Yüksel","Sabiha","Safiye","Ali","Emre","Mert","Sema","Merve","Burcu","Aysel","Hülya","Hüseyin","Zeynep","Hanife","Cihat","Ramazan","Remzi","Şefik","Faik","Oya","İpek","Merve","Tuana","Sena","Sema","Aslı","Duygu","Ceren","Hazal","Hazel","Sıddık","Ebubekir","Ali Efe","Mehmet Ali","Muhammed Ömer","Ömer Faruk"]
-random_meslek = ["Doktor","Avukat","Kuaför","Esnaf","Serbest Meslek","İnşaatçı","Emlakçı","Mühendis","Bakkal","Motokurye","Veteriner","Diş Hekimi","Öğretmen","Hademe","Müdür","Çiftçi","Aşçı","Polis","Galerici","Asker","Sporcu"]
+random_meslek = ["Doktor","Avukat","Kuaför","Esnaf","Serbest Meslek","İnşaatçı","Emlakçı","Mühendis","Bakkal","Motokurye","Veteriner","Diş Hekimi","Öğretmen","Hademe","Müdür","Çiftçi","Aşçı","Polis","Galerici","Asker","Sporcu", "Pornocu"]
 
 class veritabani(commands.Cog):
     def __init__(self, bot):
